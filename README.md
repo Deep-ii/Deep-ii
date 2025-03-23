@@ -5,7 +5,7 @@
 -📫 How to reach me: LinkedIn
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I love traveling and exploring new places while listening to music! 🎶✈️
--🛠️ Tech Stack: Python | Machine Learning | Deep Learning
+-🛠️ Tech Stack: Python | Machine Learning 
 
 
 <!---
