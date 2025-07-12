@@ -18,8 +18,10 @@ Tools & Technologies:
 ![Artificial Intelligence](https://img.shields.io/badge/-AI-00C7B7?style=flat-square&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-🛠️ I'm currently working on: Real-world Audio Noise Reduction using Deep Learning
 
+
+
+🛠️ I'm currently working on: Real-world Audio Noise Reduction using Deep Learning
 
 🚀 I'm currently learning: Transformers, Speech Enhancement, and advanced ML models
 
