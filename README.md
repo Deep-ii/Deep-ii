@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, Welcome!</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/deepisalaniya/deepisalaniya/main/night.jpeg" alt="profile header" width="100%" style="border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/Deep-ii/Deep-ii/main/night.jpeg
+" alt="profile header" width="100%" style="border-radius:10px;">
 </div>
 
 ---
