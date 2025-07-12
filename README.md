@@ -27,7 +27,7 @@ Tools & Technologies:
 
 📬 How to reach me:
 
-📧 Email: deepisalaniya@gmail.com
+📧 Email: deep2479mission@gmail.com
 
 📬 How to reach me: https://www.linkedin.com/in/deep-isalaniya-a866642b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8UmRUUlzSqCwx612%2BU2zVg%3D%3D
 
