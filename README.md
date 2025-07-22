@@ -52,7 +52,7 @@ Hello! My name is **Deep Isalaniya**.
 - 📧 Email: [deep2479mission@gmail.com](mailto:deep2479mission@gmail.com)
 - 🌐 Portfolio: [https://deep-ii.github.io/](https://deep-ii.github.io/)
 - 💼 LinkedIn: [@deepisalaniya](https://www.linkedin.com/in/deepisalaniya)
-- 🐦 Twitter: [@your_handle](https://twitter.com/your_handle)
+
 
 <div>
   <a href="https://twitter.com/your_handle" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
