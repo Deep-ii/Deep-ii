@@ -23,7 +23,7 @@
 deep = {
     "name"       : "Deep Isalaniya",
     "location"   : "Morbi, Gujarat, India 🇮🇳",
-    "education"  : "MSc Data Science @ Marwadi University (CGPA: 9.03)",
+    "education"  : "MSc Data Science @ Marwadi University (CGPA: 9.29)" Year : 2024-2026,
     "currently"  : [
         "AI/ML Engineer Intern @ GGST Innovation",
         "Building multilingual Indian voice assistant (Hindi, Telugu, Kannada)",
